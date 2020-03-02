@@ -1,0 +1,124 @@
+Visi :
+Menjadi perusahaan  yang sukses, kuat, sehat dan berdaya saing yang berbasis inovasi & teknologi.
+
+Misi :
+1. Memberikan produk-produk unggulan dengan kualitas yang baik.
+2. Memperkuat Kompetensi Manufaktur Dan Konstruksi Berbasis Enjinering.
+3. Mempermudah pelanggan untuk mendapatkan peralatan komputer dan suku cadangnya.
+4. Membantu pelanggan dalam mengatasi kerusakan peralatan teknologi informasi.
+
+About :
+PT Berkah Alvinca Jaya adalah perusahaan penyedia piranti lunak, peralatan komputer, suku cadang elektronik, peralatan telekomunikasi, mesin kantor dan industri yang beralamat di Jl. Benda Timur 12B Blok E19 No.5 Kec. Pamulang, Kel. Benda Baru Pamulang Tangerang Selatan - Banten 15415.
+Produk yang di jual oleh perusahaan kami antara lain :
+1. Perdagangan besar komputer dan perlangkapan komputer.
+2. perdagangan besar piranti lunak.
+3. perdagangan besar suku cadang elektronik.
+4. perdagangan besar peralatan telekomunikasi.
+5. perdagangan besar mesin kantor dan industri, suku cadang dan perlangkapannya.
+6. perdagangan besar alat transportasi laut, suku cadang dan perlengkapannya.
+7. perdagangan besar alat transportasi udara, suku cadang dan perlengkapannya.
+
+
+1. Perdagangan besar komputer dan perlangkapan komputer.
+	a. komputer
+	b. monitor
+	c. keyboard
+	d. mouse
+	e. headset
+	f. hdd
+	g. laptop
+2. perdagangan besar piranti lunak.
+	a. windows
+	b. ms office
+	c. aplikasi design
+	d. software akutansi
+3. perdagangan besar suku cadang elektronik.
+	a. motherboard pc / mesin lainnnya
+	b. dinamo
+4. perdagangan besar peralatan telekomunikasi.
+	a. ht
+	b. handphone telepon
+	c. cctv
+	d. router / akses point
+5. perdagangan besar mesin kantor dan industri, suku cadang dan perlangkapannya.
+	a. mesin fotocopy
+	b. printer
+	c. scanner
+	d. server
+6. perdagangan besar alat transportasi laut, suku cadang dan perlengkapannya.
+	a. kapal
+	b. speed boat
+7. perdagangan besar alat transportasi udara, suku cadang dan perlengkapannya.
+	a. pesawat
+
+
+
+Revisi :
+
+1. tambahkan legalitas perusahaan di bawah visi misi :
+	Legelitas Perusahaan
+	1. Akta Pendirian Perusahaan
+	2. NPWP Perusahaan
+	3. Usrat Ijin Tempat Usaha (SITU)
+	4. Surat Keterangan Terdaftar Pajak (SKTP)
+	5. Surat Pengukuhan Perusahaan Kena Pajak (SPPKP)
+	6. Tanda Daftar Perusahaan (TDP)
+	7. Surat Ijin Usaha Perdagangan (SIUP)
+	8. Surat Keputusan Menteri Hukum & HAM
+
+2. tambahkan pengalaman pekerjaan dibawah Legelitas Perusahaan :
+	Pengalaman Pekerjaan (dengan background X-ray mesin)
+	1. Perbaikan X-ray Kabin Merk Rapiscan 620 XR  PT. TIPS Inovasi Indonesia di Gudang PT. Angkasa Pura Kargo Bandara Soekarno Hatta.
+	2. Penjualan Modul Tank Heat X-ray Merk L3 PX 1010 DV di UPBU Rendani- Manokwari Papua.
+	3. Pemeliharaan peralatan X-ray Bagasi XIS 100 XD Dualview di PT. Pelita Air Service Pondok Cabe Tangerang Selatan.
+	4. Penyewaan dan Pemeliharaan X-ray Kargo Merk L3 PX 160 Single View  di BIJB Kertajati dibawah PT. Angkasa Pura Kargo.
+	5. Perbaikan Modul Control Tank Heat / Tabung Generator X-ray Merk L3 di Satpel Krui Pesisir Barat Lampung
+
+3. piranti lunak diganti  menjadi "Peranti Lunak, Laptop dan Perakitan PC" dan ada gambar dan tulisan kaya dibawah
+	isinya :
+	1. daftar merk laptop (tidak usah semua ada gambar, minimal ada gambar laptop dan ada gambar pc) :
+		a. apple
+		b. microsoft
+		c. lenovo
+		d. asus
+		e. dell
+		f. msi
+		g. hp
+		h. acer
+		i. toshiba
+		j. samsung
+		h. dll
+	2. daftar spesifikasi laptop
+		a. Core 2 Duo
+		b. Core I 3
+		c. Core I 5
+		d. Core I 7
+	3. daftar merk sofware (tidak usah semua ada gambar, seadanya saja) :
+		a. payroll
+		b. sms gateway/broadcast
+		c. bell otomatis
+		d. e-learning
+		f. lab bahasa
+		g. ms office
+		h. windows
+		i. aplikasi design
+		j. dll
+
+4. alamat double i "Jl. Benda Tiimur" harusnya "Jl. Benda Timur"
+
+5. no. telp yang kedua diganti ini : +62 813-8764-3003
+
+6. dibuatkan Menjadi Power Pointnya juga
+
+7. revisi about company profile menjadi :
+
+	PT. Berkah Alvinca Jaya adalah perusahaan yang bergerak di bidang Telekomunikasi, Informasi, Komunikasi dan Mechanical Electrical. Berdiri sejak Januari 2019.
+
+	Komitment kami dalam menjalankan pekerjaan adalah bekerja semaksimal mungkin untuk kepuasan konsumen serta menyelesaikan pekerjaan secepat mungkin dengan hasil maksimal.
+
+	PT. Berkah Alvinca Jaya adalah merupakan deaker resnu dari product-product Panasonic, LG Ericsson, Commax, Wonwoo dll. Semua produk yang ditawarkan bergaransi sesuai dengan ketentuan yang berlaku pada perusahaan. Didalam menjalankan usahanya, PT. Berkah Alvinca Jaya berpegang teguh pada prinsip-prinsip 5M yaitu :
+	1. Melayani client dengan tulus dan ikhlas
+	2. Menjalankan pekerjaan dengan teliti dalam waktu yang tepat
+	3. Merespon segala keluhan-keluhan client dengan cepat
+	4. Mengutamakan kepentingan client jika ada permasalahan
+	5. Menjaga hubungan baik dengan client
